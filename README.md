@@ -108,6 +108,3 @@ Las contribuciones son bienvenidas. Puedes contribuir de las siguientes maneras:
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
 
----
-
-Espero que este formato sea más claro y visualmente atractivo. Si necesitas más ajustes, ¡házmelo saber!
