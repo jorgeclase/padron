@@ -106,5 +106,5 @@ Las contribuciones son bienvenidas. Puedes contribuir de las siguientes maneras:
 
 ## 📜 Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+Este proyecto está licenciado bajo Apache 2.0. Consulta el archivo LICENSE para más detalles.
 
